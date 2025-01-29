@@ -17,6 +17,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
+            android:textStyle="bold"
             android:text="Title : "
             android:textSize="20sp" />
 
@@ -33,6 +34,7 @@
             android:layout_height="wrap_content"
             android:text="Source : "
             android:textSize="20sp"
+            android:textStyle="italic"
             android:layout_marginStart="220dp"/>
 
     </LinearLayout>
